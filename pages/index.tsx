@@ -47,7 +47,7 @@ export default function Home() {
             frameworks like React and Next.Js. I'm also skilled in various technologies using for blockchain development including coding smart contracts with the help of Solidity, Interplanetary File System (IPFS) , etc on Etheruem Blockchain.`}
             </p>
           </div>
-          <div className="h-full flex flex-col justify-center items-center my-14 ml-20">
+          <div className="h-full flex flex-col justify-center items-center my-14 ml-40">
             <div className="w-72 h-72 border-4 border-blueBorder p-2 rounded-full">
               <Image
                 src={"/Abhirag Photo 2.jpg"}
@@ -58,8 +58,8 @@ export default function Home() {
               />
             </div>
             <div>
-            <p className="my-3 ml-8 text-4xl">
-              {`Technical Member Of Blockchain RCOEM Chapter(BRC) Nagpur`} 
+            <p className="my-3 ml-10 text-3xl">
+              {`Technical Member Of Blockchain RCOEM Chapter(BRC), Nagpur`} 
             </p>
             </div>
           </div>
