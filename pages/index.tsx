@@ -37,7 +37,7 @@ export default function Home() {
               </p>
             </div>
             <p className="my-3">
-              {`I'm a Full Stack Blockchain developer and have recently been very interested in 
+              {`I'm a Full Stack Blockchain developer and have been very interested in 
                creating beautiful and functional full stack MERN and web3
             applications, and I love the constant challenge of keeping up with
             the latest technologies and design trends.`}
