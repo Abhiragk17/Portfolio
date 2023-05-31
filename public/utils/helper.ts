@@ -1,4 +1,5 @@
-export const stackData = [
+export const stackData =
+  [
     { src: "/htmlIcon.svg", name: "HTML" },
     { src: "/cssIcon.svg", name: "CSS" },
     { src: "/jsIcon.svg", name: "JavaScript" },
@@ -19,32 +20,32 @@ export const stackData = [
     { src: "/githubIcon.svg", name: "Github" },
     { src: "/npmIcon.svg", name: "npm" },
     // { src: "/dockerIcon.svg", name: "Docker" },
-    {src: "/java.svg", name: "Java"},
+    { src: "/java.svg", name: "Java" },
     { src: "/pythonIcon.svg", name: "Python" },
     // { src: "/figmaIcon.svg", name: "Figma" },
     // { src: "/adobexdIcon.svg", name: "Adobe XD" },
   ];
 
-  export const projectsData = [
-    {
-      name: "De-Pay",
-      description: "De-Pay is a decentralized application that facilitates any company or individual to pay the salary of their employees in ethereum with just a click of a button",
-      src: "/DE-Pay.png",
-      liveLink: "https://de-pay.vercel.app/",
-      githubLink: "https://github.com/Abhiragk17/DE-PAY",
-    },
-    {
-      name: "Imagify",
-      description: "Imagify is a Full stack AI powered Image generation and sharing platform where a user can create any image just by simply providing its descripton.",
-      src: "/Imagify.png",
-      liveLink: "https://imaggify.netlify.app/",
-      githubLink: "https://github.com/Abhiragk17/Imagify",
-    },
-    {
-      name: "Artisumm",
-      description: "An Article summerizer web application using react Js , TailWind CSS and Article Extractor and Summarizer API",
-      src: "/ArtiSumm.png",
-      liveLink: "https://artisumm.netlify.app/",
-      githubLink: "https://github.com/Abhiragk17/Article-summarizer",
-    },
-  ]
+export const projectsData = [
+  {
+    name: "De-Pay",
+    description: "De-Pay is a decentralized application that facilitates any company or individual to pay the salary of their employees in ethereum with just a click of a button",
+    src: "/DE-Pay.png",
+    liveLink: "https://de-pay.vercel.app/",
+    githubLink: "https://github.com/Abhiragk17/DE-PAY",
+  },
+  {
+    name: "Imagify",
+    description: "Imagify is a Full stack AI powered Image generation and sharing platform where a user can create any image just by simply providing its descripton.",
+    src: "/Imagify.png",
+    liveLink: "https://imaggify.netlify.app/",
+    githubLink: "https://github.com/Abhiragk17/Imagify",
+  },
+  {
+    name: "Artisumm",
+    description: "An Article summerizer web application using react Js , TailWind CSS and Article Extractor and Summarizer API",
+    src: "/ArtiSumm.png",
+    liveLink: "https://artisumm.netlify.app/",
+    githubLink: "https://github.com/Abhiragk17/Article-summarizer",
+  },
+]
