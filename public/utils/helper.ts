@@ -19,7 +19,7 @@ export const stackData = [
     { src: "/githubIcon.svg", name: "Github" },
     { src: "/npmIcon.svg", name: "npm" },
     // { src: "/dockerIcon.svg", name: "Docker" },
-    {src: "/java.jpg", name: "Java"},
+    {src: "/java.svg", name: "Java"},
     { src: "/pythonIcon.svg", name: "Python" },
     // { src: "/figmaIcon.svg", name: "Figma" },
     // { src: "/adobexdIcon.svg", name: "Adobe XD" },
