@@ -88,11 +88,11 @@ const Header = () => {
                 <Link href={"#Projects"}>Projects</Link>
               </li>
               <li className="text-lg">
-                <Link href={"https://mail.google.com/mail/u/0/#inbox"} target="_blank">Contact</Link>
+                <Link href={"mailto:abhiragkulkarni12@gmail.com"} target="_blank">Contact</Link>
               </li>
             </ul>
             <div className="gap-7 flex">
-              <Link href={"https://github.com/Hanzala-Ahmed"} target="_blank">
+              <Link href={"https://github.com/Abhiragk17"} target="_blank">
                 <Image
                   src={"/githubWhiteIcon.svg"}
                   alt=""
@@ -109,7 +109,7 @@ const Header = () => {
                 />
               </Link>
               <Link
-                href={"https://www.linkedin.com/in/hanzala-ahmed-433535170/"}
+                href={"https://www.linkedin.com/in/abhirag-kulkarni-4b97a221b/"}
                 target="_blank"
               >
                 <Image
