@@ -28,6 +28,13 @@ export const stackData =
 
 export const projectsData = [
   {
+    name: "ProjectHub",
+    description:"ProjectHub is a  FullStack Project Sharing platform,where one can share His/Her projects with the community as well as can view the projects shared by others",
+    src: "/ProjectHub.png",
+    liveLink: "https://projecthub122.vercel.app/",
+    githubLink: "https://github.com/Abhiragk17/ProjectHub",
+  },
+  {
     name: "De-Pay",
     description: "De-Pay is a decentralized application that facilitates any company or individual to pay the salary of their employees in ethereum with just a click of a button",
     src: "/DE-Pay.png",
