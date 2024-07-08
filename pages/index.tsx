@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Abhirag kulkarni - Full Stack Developer</title>
+        <title>Abhirag kulkarni - Full Stack and GenAI Developer</title>
         {/* <meta
           name="description"
           content="Check out iPhone 12 XR Pro and iPhone 12 Pro Max. Visit your local store and for expert advice."
@@ -37,14 +37,10 @@ export default function Home() {
               </p>
             </div>
             <p className="my-3">
-              {`I'm a Full Stack Blockchain developer and have been very interested in 
-               creating beautiful and functional full stack MERN and web3
-            applications, and I love the constant challenge of keeping up with
-            the latest technologies and design trends.`}
+              {`Hello! I'm Abhirag Kulkarni, a passionate GenAI and MERN stack developer from Nagpur, India who loves to create innovative and interactive applications which can bring a positive change in the world.`}
             </p>
             <p className="my-3">
-              {`I have a strong background in HTML, CSS, JavaScript, and various frontend 
-            frameworks like React and Next.Js. I'm also skilled in various technologies using for blockchain development including coding smart contracts with the help of Solidity, Interplanetary File System (IPFS) , etc on Etheruem Blockchain.`}
+              {` I have been working on Full stack development and AI for the past 2 years, which has helped me develop various projects and sharpen my skills. I have also completed internship in the field of GenerativeAI, through which I have built several live, production-ready AI applications while keeping up with the latest technology.`}
             </p>
           </div>
           <div className="h-full flex flex-col justify-center items-center my-14 ml-40">
@@ -59,7 +55,7 @@ export default function Home() {
             </div>
             <div>
             <p className="my-3 ml-10 text-3xl">
-              {`Technical Member Of Blockchain RCOEM Chapter(BRC), Nagpur`} 
+              {`GenAI and MERN stack developer`} 
             </p>
             </div>
           </div>

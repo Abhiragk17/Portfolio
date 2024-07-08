@@ -1,9 +1,7 @@
 export const stackData =
   [
-    { src: "/htmlIcon.svg", name: "HTML" },
-    { src: "/cssIcon.svg", name: "CSS" },
-    { src: "/jsIcon.svg", name: "JavaScript" },
-    { src: "/typescriptIcon.svg", name: "TypeScript" },
+    {src: "/langchainIcon.svg", name: "LangChain" },
+    {src:"/huggingfaceIcon.svg", name: "HuggingFace"},
     { src: "/reactIcon.svg", name: "React" },
     // { src: "/reactIcon.svg", name: "React-Native" },
     { src: "/nextjsIcon.svg", name: "Next.Js" },
@@ -13,16 +11,17 @@ export const stackData =
     { src: "/nodejsIcon.svg", name: "Node.Js" },
     { src: "/expressjsIcon.svg", name: "Express" },
     { src: "/mongodbIcon.svg", name: "Mongo DB" },
-    { src: "/web3Icon.svg", name: "Web3" },
+    //{ src: "/web3Icon.svg", name: "Web3" },
     { src: "/awsIcon.svg", name: "AWS" },
     // { src: "/firebaseIcon.svg", name: "Firebase" },
     { src: "/gitIcon.svg", name: "Git" },
     { src: "/githubIcon.svg", name: "Github" },
-    { src: "/npmIcon.svg", name: "npm" },
+    //{ src: "/npmIcon.svg", name: "npm" },
     // { src: "/dockerIcon.svg", name: "Docker" },
     { src: "/java.svg", name: "Java" },
     { src: "/pythonIcon.svg", name: "Python" },
     // { src: "/figmaIcon.svg", name: "Figma" },
+    
     // { src: "/adobexdIcon.svg", name: "Adobe XD" },
   ];
 
@@ -34,13 +33,13 @@ export const projectsData = [
     liveLink: "https://projecthub122.vercel.app/",
     githubLink: "https://github.com/Abhiragk17/ProjectHub",
   },
-  {
-    name: "De-Pay",
-    description: "De-Pay is a decentralized application that facilitates any company or individual to pay the salary of their employees in ethereum with just a click of a button",
-    src: "/DE-Pay.png",
-    liveLink: "https://de-pay.vercel.app/",
-    githubLink: "https://github.com/Abhiragk17/DE-PAY",
-  },
+ // {
+    //name: "De-Pay",
+    //description: "De-Pay is a decentralized application that facilitates any company or individual to pay the salary of their employees in ethereum with just a click of a button",
+    //src: "/DE-Pay.png",
+    //liveLink: "https://de-pay.vercel.app/",
+    //githubLink: "https://github.com/Abhiragk17/DE-PAY",
+  //},
   {
     name: "Imagify",
     description: "Imagify is a Full stack AI powered Image generation and sharing platform where a user can create any image just by simply providing its descripton.",

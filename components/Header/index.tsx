@@ -31,6 +31,9 @@ const Header = () => {
             <li className="text-lg">
               <Link href={"mailto:abhiragkulkarni12@gmail.com"} target="_blank">Contact</Link>
             </li>
+            <li className="text-lg">
+              <Link href={"https://drive.google.com/file/d/12Q_pgN0rvvbMlTAg2lI6vy7b5bnPnwrM/view"} target="_blank">Resume</Link>
+            </li>
           </ul>
           <div className="gap-7 flex">
             <Link href={"https://github.com/Abhiragk17"} target="_blank">
