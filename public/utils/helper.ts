@@ -27,8 +27,22 @@ export const stackData =
 
 export const projectsData = [
   {
+    name: "KnowYourStock",
+    description:"KnowYourStock is an AI-powered finance assistant using FastAPI + LangGraph, integrating Gemini LLMs, Weaviate, and a Streamlit dashboard for real-time stock insights and interactive chat-based financial analysis.",
+    src: "/KnowYourStock.png",
+    liveLink: "https://streamlit-knowyourstock.onrender.com",
+    githubLink: "https://github.com/Abhiragk17/KnowYourStock",
+  },
+  {
+    name: "Data Analyzer",
+    description:"Data Analyzer is an AI-powered data analysis dashboard using Next.js, enabling data summarization, visualization, and natural-language chat with datasets through integrated LLM APIs and interactive visual modules.",
+    src: "/DataAnalyzer.png",
+    liveLink: "https://datanalyzer.netlify.app/",
+    githubLink: "https://github.com/Abhiragk17/Data_Analyzer_Backend",
+  },
+  {
     name: "ProjectHub",
-    description:"ProjectHub is a  FullStack Project Sharing platform,where one can share His/Her projects with the community as well as can view the projects shared by others",
+    description:"ProjectHub is a FullStack Project Sharing platform,where one can share His/Her projects with the community as well as can view the projects shared by others",
     src: "/ProjectHub.png",
     liveLink: "https://projecthub122.vercel.app/",
     githubLink: "https://github.com/Abhiragk17/ProjectHub",

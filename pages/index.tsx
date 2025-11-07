@@ -37,10 +37,10 @@ export default function Home() {
               </p>
             </div>
             <p className="my-3">
-              {`Hello! I'm Abhirag Kulkarni, a passionate GenAI and MERN stack developer from Nagpur, India who loves to create innovative and interactive applications which can bring a positive change in the world.`}
+              {`Hello! I'm Abhirag Kulkarni, a Cloud Security and GenAI Developer from Nagpur, India, passionate about building intelligent and scalable applications that bridge AI and full-stack development.`}
             </p>
             <p className="my-3">
-              {` I have been working on Full stack development and AI for the past 2 years, which has helped me develop various projects and sharpen my skills. I have also completed internship in the field of GenerativeAI, through which I have built several live, production-ready AI applications while keeping up with the latest technology.`}
+              {`I have 1 year of professional experience at Accenture, specializing in Azure Policy, Terraform, and cloud governance automation, along with 6 months of hands-on work in Generative AI during my internship at Senslyze, where I built production-grade LLM-based applications using Python, Flask, LangChain, and Docker. With a strong foundation in MERN stack development and a growing expertise in AI workflows and cloud automation, I love creating solutions that are both technically sound and impactful`}
             </p>
           </div>
           <div className="h-full flex flex-col justify-center items-center my-14 ml-40">
@@ -55,7 +55,7 @@ export default function Home() {
             </div>
             <div>
             <p className="my-3 ml-10 text-3xl">
-              {`GenAI and MERN stack developer`} 
+              {`GenAI and Cloud Security developer`} 
             </p>
             </div>
           </div>
